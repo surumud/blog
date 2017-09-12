@@ -1,0 +1,25 @@
+title = "Larutan Penyegar Djiwa"
+baseurl = "https://www.petanikode.com/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "pupuhu"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "korong"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = ""
+
+# Untuk deskripsi tag meta di homepage
+description = "Be concious and speak the truth always"
+
+# Biodata Author
+[author]
+    name = "Yudy Ananda"
+    homepage = "https://hobbious.com"
+    bio = "Pengamat Langit"
+    image = "https://lh5.googleusercontent.com/-h2tLsyijw8Q/AAAAAAAAAAI/AAAAAAAACys/WBpjN_34z3o/s32-c/photo.jpg"
